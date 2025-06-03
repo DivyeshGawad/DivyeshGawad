@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Divyesh Gawad, a passionate web developer specializing in Angular, Spring Boot, and MongoDB. I enjoy building scalable web applications and creating innovative solutions. I'm always eager to learn new technologies and contribute to exciting projects.<br><br>🔧 Skills: Frontend & Backend Development, API Integration, Cloud Services<br>🎯 Currently Learning: Cloud Development with Spring
+Hi, I'm Divyesh Gawad, a passionate web developer specializing in Angular, Spring Boot, and MongoDB. I enjoy building scalable web applications and creating innovative solutions. I'm always eager to learn new technologies and contribute to exciting projects.<br><br>🔧 Skills: Frontend & Backend Development, API Integration<br>🎯 Currently Learning: Full Stack development with Spring
 
 
 ## 🌐 Socials:
