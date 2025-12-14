@@ -4,7 +4,7 @@ I enjoy building scalable web applications and creating innovative solutions.
 I'm always eager to learn new technologies and contribute to exciting projects.  
 
 🔧 **Skills:** Frontend & Backend Development, API Integration  
-🎯 **Currently Learning:** Full Stack Development with Spring
+🎯 **Currently Learning:** Microservices Architecture with Spring Boot & Docker
 
 ---
 
